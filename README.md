@@ -85,7 +85,5 @@ For any queries or suggestions, feel free to reach out:
 Check out the live version of this project here:
 👉 [https://empty-cup-internship-rudraprasad.vercel.app/](https://empty-cup-internship-rudraprasad.vercel.app/)
 
----
-
 ```
 ```
