@@ -1,4 +1,4 @@
-
+```markdown
 # 🚀 Full Stack Development Task
 
 A front-end project developed using **HTML**, **CSS**, and **JavaScript** as part of an internship task.
@@ -42,7 +42,7 @@ You can either:
 ### 2. 📂 Navigate to the Project Directory
 
 ```bash
-cd your-repository-name
+cd EmptyCup-Internship
 ```
 
 ### 3. 🧑‍💻 Open the Project
@@ -79,9 +79,13 @@ For any queries or suggestions, feel free to reach out:
 📧 [prasadrudra279@gmail.com](mailto:prasadrudra279@gmail.com)
 
 ---
+
 ## 🌐 Live Demo
 
-Check out the live version of this project here:  
+Check out the live version of this project here:
 👉 [https://empty-cup-internship-rudraprasad.vercel.app/](https://empty-cup-internship-rudraprasad.vercel.app/)
 
 ---
+
+```
+```
