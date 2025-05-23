@@ -30,7 +30,7 @@ You can either:
 
 - **Clone it using Git:**
   ```bash
-  git clone https://github.com/your-username/your-repository-name.git
+  git clone https://github.com/RudraP2004/EmptyCup-Internship.git
 ````
 
 * **Or download the ZIP file:**
@@ -77,5 +77,11 @@ For any queries or suggestions, feel free to reach out:
 
 **Rudra Prasad Baral**
 📧 [prasadrudra279@gmail.com](mailto:prasadrudra279@gmail.com)
+
+---
+## 🌐 Live Demo
+
+Check out the live version of this project here:  
+👉 [https://empty-cup-internship-rudraprasad.vercel.app/](https://empty-cup-internship-rudraprasad.vercel.app/)
 
 ---
