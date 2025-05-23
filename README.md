@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Full Stack Development Task
 
 A front-end project developed using **HTML**, **CSS**, and **JavaScript** as part of an internship task.
@@ -7,7 +6,6 @@ A front-end project developed using **HTML**, **CSS**, and **JavaScript** as par
 
 ## 📁 Project Structure
 
-```
 
 project-folder/
 │
@@ -16,7 +14,7 @@ project-folder/
 ├── script.js          # JavaScript file
 └── README.md          # Project documentation
 
-````
+
 
 ---
 
@@ -28,10 +26,10 @@ Follow these steps to get the project up and running on your local machine.
 
 You can either:
 
-- **Clone it using Git:**
-  ```bash
+**Clone it using Git:**
+bash
   git clone https://github.com/RudraP2004/EmptyCup-Internship.git
-````
+
 
 * **Or download the ZIP file:**
 
@@ -85,5 +83,3 @@ For any queries or suggestions, feel free to reach out:
 Check out the live version of this project here:
 👉 [https://empty-cup-internship-rudraprasad.vercel.app/](https://empty-cup-internship-rudraprasad.vercel.app/)
 
-```
-```
